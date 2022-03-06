@@ -1,1 +1,1 @@
-print("Hello \n")
+echo "Hello \n"
