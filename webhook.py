@@ -3,4 +3,6 @@
 print("Hello from new file \n")
 print("Hello from new file \n")
 print("Hello from new file \n")
+print("Hello from new file \n")
+print("Hello from new file \n")
 
